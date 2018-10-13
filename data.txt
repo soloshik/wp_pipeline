@@ -1,2 +1,2 @@
-Name = Tom
-Base = TomBase
+env.DB_URL="Tom"
+env.DB_URL2="TomBase"
