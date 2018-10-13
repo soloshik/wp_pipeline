@@ -1,2 +1,2 @@
-Tom
-TomBase
+Name = Tom
+Base = TomBase
